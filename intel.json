@@ -1,5 +1,15 @@
 [
     {
+        "title": "NiamonX",
+        "social": [
+            "https://x.com/niamonx"
+        ],
+        "description": "AI-powered breach intelligence and cyber threat investigation platform monitoring compromised credentials, infostealer infections, leaked datasets and digital threats at large scale.",
+        "link": "https://niamonx.io/",
+        "region": "GLOBAL",
+        "tags": "identity,threat,osint,intelligence"
+    },
+    {
         "title": "Exploit Observer",
         "social": [
             "https://www.linkedin.com/company/arpsyndicate",
@@ -2016,16 +2026,6 @@
         "link": "https://leakix.net",
         "region": "GLOBAL",
         "tags": "clearweb,identity,threat"
-    },
-    {
-        "title": "NiamonX",
-        "social": [
-            "https://x.com/niamonx"
-        ],
-        "description": "AI-powered breach intelligence and cyber threat investigation platform monitoring compromised credentials, infostealer infections, leaked datasets and digital threats at large scale.",
-        "link": "https://niamonx.io/",
-        "region": "GLOBAL",
-        "tags": "identity,threat,osint,intelligence"
     },
     {
         "title": "LeakRadar",
